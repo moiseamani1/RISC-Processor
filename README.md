@@ -1,6 +1,6 @@
 # RISC-Processor
 
-In this project, I have built a structural VHDL implementation of a single-cycle reduced instruction set computer (RISC) procesor.
+In this project, I have built a structural VHDL implementation of a single-cycle reduced instruction set computer (RISC) processor.
 
 <img src="screenshots/Capture.JPG" width="auto"></img>
 
